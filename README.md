@@ -26,4 +26,4 @@ No extra compiler arguments or options are necessary.
 
 ## License
 
-[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[MIT](LICENSE)
